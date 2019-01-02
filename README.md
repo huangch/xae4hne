@@ -7,7 +7,7 @@ In this paper, we introduced a novel feature extraction approach, named exclusiv
 Please consider to include the following bibtex if this repository helps your publications:
 
 @misc{huang2018exclusive,
-    title={eXclusive Autoencoder (XAE) for Nucleus Detection and Classification on Hematoxylin and Eosin (H{\&}E) Stained Histopathological Images},
+    title={eXclusive Autoencoder (XAE) for Nucleus Detection and Classification on Hematoxylin and Eosin (H{\\&}E) Stained Histopathological Images},
     author={Chao-Hui Huang and Daniel Racoceanu},
     year={2018},
     eprint={1811.11243},
